@@ -1,4 +1,4 @@
-#Thu Feb 27 20:54:10 BRT 2020
-base.0=C\:\\Users\\luism\\Desktop\\etanol-gasolina\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Sat Mar 07 17:03:31 BRT 2020
+base.0=C\:\\Users\\luism\\OneDrive\\Documentos\\GitHub\\StarWars-APP\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

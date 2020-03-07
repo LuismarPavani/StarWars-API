@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\luism\\Desktop\\etanol-gasolina\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
+            "outputFile": "C:\\Users\\luism\\OneDrive\\Documentos\\GitHub\\StarWars-APP\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw\\values-sw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\luism\\.gradle\\caches\\transforms-2\\files-2.1\\3e2aecd8b336d9c574bc7ee8c4a0dd14\\res\\values-sw\\values-sw.xml",
